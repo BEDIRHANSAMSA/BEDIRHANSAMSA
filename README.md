@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bedirhansamsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bedirhansamsa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bedirhansamsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bedirhansamsa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bedirhan-samsa-1847b51ba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bedirhan-samsa-1847b51ba" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13845958" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13845958" height="30" width="40" /></a>
-<a href="https://fb.com/bedirhansamsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bedirhansamsa" height="30" width="40" /></a>
+<a href="https://fb.com/bedirhansamsa34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="bedirhansamsa34" height="30" width="40" /></a>
 <a href="https://instagram.com/bedirhansamsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bedirhansamsa" height="30" width="40" /></a>
 <a href="https://www.behance.net/bedirhansamsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="bedirhansamsa" height="30" width="40" /></a>
 <a href="https://medium.com/bedirhansamsa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="bedirhansamsa" height="30" width="40" /></a>
