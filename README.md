@@ -5,4 +5,4 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **bedirhan.samsa@akillisatici.com**
+- 📫 How to reach me **me@bedirhan.dev**
